@@ -3,4 +3,4 @@ Robocup 2025 "Ronny & Omsar"
 
 Here you can find a documentation of our robot development for the RoboCup Junior 2025 OnStage.
 
-The files are on the left under "releases".
+The files are on the right under "releases".
